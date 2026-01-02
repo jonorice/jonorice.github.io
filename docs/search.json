@@ -124,12 +124,5 @@
     "title": "Talks",
     "section": "2025",
     "text": "2025\n\nConference or seminar, Institution, Month Year. Title of talk. Slides\n\nWorkshop, Institution, Month Year. Title of talk. Video"
-  },
-  {
-    "objectID": "research_old.html",
-    "href": "research_old.html",
-    "title": "Research",
-    "section": "",
-    "text": "This page is structured so that you can keep three distinct research outputs visible and easy to navigate. For each item, include stable links, ideally a journal landing page or DOI for publications, and a PDF link for working papers and policy outputs.\n\nPublicationsWorking PapersPolicy Contributions\n\n\n\nTitle of published article (Year)\nJono Surname, Coauthor One, Coauthor Two\nJournal Name, volume(issue), pages\nJournal DOI PDF Replication package\n\n\n\nAbstract\n\n\nWrite a brief abstract or a short summary. Many economists prefer a short summary that is less technical than the journal abstract.\n\n\n\nTitle of published article (Year)\nJono Surname, Coauthor Three\nJournal Name\nJournal DOI Ungated PDF\n\n\n\n\nTitle of working paper (Year)\nJono Surname, Coauthor One\nPDF Appendix Code Slides\nStatus revise and resubmit at Journal Name (optional)\n\n\nTitle of working paper (Year)\nJono Surname\nPDF Data Code\n\n\n\n\nTitle of policy brief or report (Year)\nInstitution or commissioning body\nReport Appendix Data\n\n\nTitle of consultation response or written evidence (Year)\nParliamentary committee or agency\nSubmission"
   }
 ]

@@ -1,0 +1,10 @@
+---
+title: "Talks"
+---
+
+List invited seminars, conference presentations, and other talks. A simple reverse chronological list usually works best.
+
+## 2025
+
+- Conference or seminar, Institution, Month Year. *Title of talk*. [Slides](#)  
+- Workshop, Institution, Month Year. *Title of talk*. [Video](#)

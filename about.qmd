@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+## Biography
+
+Write a short academic biography here. Aim for a professional tone, and keep it current. Most visitors decide whether your work is relevant to them within the first minute, so prioritise clarity over exhaustive detail.
+
+You may wish to include a one paragraph version for casual readers, and a longer version for academic audiences.
+
+## Education
+
+- PhD in Economics, University, Year  
+- MSc in Economics, University, Year  
+- BSc in Economics, University, Year  
+
+## Professional experience
+
+- Research Economist, Institution, Year to present  
+- Lecturer, Institution, Year to Year  
+- Policy Economist, Institution, Year to Year  
+
+## Affiliations and service
+
+Include editorial roles, professional societies, committees, and other academic service that you want visible.
+
+## Media and public engagement
+
+If you do any media work, public lectures, or expert commentary, this is a good place to list it with links.

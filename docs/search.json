@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "List modules, short descriptions, and any teaching materials you can share. For each module, include the institution, year, and your role."
+  },
+  {
+    "objectID": "teaching.html#example-module",
+    "href": "teaching.html#example-module",
+    "title": "Teaching",
+    "section": "Example module",
+    "text": "Example module\nModule title, Institution (Year)\nShort description of the module, with a link to a syllabus if available."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is structured so that you can keep three distinct research outputs visible and easy to navigate. For each item, include stable links, ideally a journal landing page or DOI for publications, and a PDF link for working papers and policy outputs.\n\nPublicationsWorking PapersPolicy Contributions\n\n\n\nTitle of published article (Year)\nJono Surname, Coauthor One, Coauthor Two\nJournal Name, volume(issue), pages\nJournal DOI PDF Replication package\n\n\n\nAbstract\n\n\nWrite a brief abstract or a short summary. Many economists prefer a short summary that is less technical than the journal abstract.\n\n\n\nTitle of published article (Year)\nJono Surname, Coauthor Three\nJournal Name\nJournal DOI Ungated PDF\n\n\n\n\nTitle of working paper (Year)\nJono Surname, Coauthor One\nPDF Appendix Code Slides\nStatus revise and resubmit at Journal Name (optional)\n\n\nTitle of working paper (Year)\nJono Surname\nPDF Data Code\n\n\n\n\nTitle of policy brief or report (Year)\nInstitution or commissioning body\nReport Appendix Data\n\n\nTitle of consultation response or written evidence (Year)\nParliamentary committee or agency\nSubmission"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can provide your CV as a PDF for download, and optionally embed it on this page.\n\nDownload my CV (PDF)\n\n\n\nYour browser cannot display embedded PDFs. You can download the CV as a PDF."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Write a short academic biography here. Aim for a professional tone, and keep it current. Most visitors decide whether your work is relevant to them within the first minute, so prioritise clarity over exhaustive detail.\nYou may wish to include a one paragraph version for casual readers, and a longer version for academic audiences."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Write a short academic biography here. Aim for a professional tone, and keep it current. Most visitors decide whether your work is relevant to them within the first minute, so prioritise clarity over exhaustive detail.\nYou may wish to include a one paragraph version for casual readers, and a longer version for academic audiences."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics, University, Year\n\nMSc in Economics, University, Year\n\nBSc in Economics, University, Year"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nResearch Economist, Institution, Year to present\n\nLecturer, Institution, Year to Year\n\nPolicy Economist, Institution, Year to Year"
+  },
+  {
+    "objectID": "about.html#affiliations-and-service",
+    "href": "about.html#affiliations-and-service",
+    "title": "About",
+    "section": "Affiliations and service",
+    "text": "Affiliations and service\nInclude editorial roles, professional societies, committees, and other academic service that you want visible."
+  },
+  {
+    "objectID": "about.html#media-and-public-engagement",
+    "href": "about.html#media-and-public-engagement",
+    "title": "About",
+    "section": "Media and public engagement",
+    "text": "Media and public engagement\nIf you do any media work, public lectures, or expert commentary, this is a good place to list it with links."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
+  },
+  {
+    "objectID": "contact.html#contact-form-optional",
+    "href": "contact.html#contact-form-optional",
+    "title": "Contact",
+    "section": "Contact form (optional)",
+    "text": "Contact form (optional)\nIf you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.\n\n Your name     Your email     Message\n\n  Send\n\n\nIf you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jono Surname\" class=\"headshot\"&gt;\n&lt;p class=\"small-note\"&gt;\n  Replace this image with your own headshot, keep the same filename or update the path in &lt;code&gt;index.qmd&lt;/code&gt;.\n&lt;/p&gt;\n\n\n\nI am an academic economist specialising in macroeconomics and applied microeconomics. My research interests include monetary policy, labour markets, and the economics of climate risk.\nI am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.\n\nResearch interests Monetary economics, labour, climate and energy, policy evaluation\n\n\nResearch CV Contact"
+  },
+  {
+    "objectID": "index.html#latest-and-selected-work",
+    "href": "index.html#latest-and-selected-work",
+    "title": "Home",
+    "section": "Latest and selected work",
+    "text": "Latest and selected work\n\nTitle of paper (forthcoming), with Coauthor One and Coauthor Two.\nPDF Journal Code\nTitle of working paper, with Coauthor Three.\nPDF Slides"
+  },
+  {
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": "Home",
+    "section": "Short bio",
+    "text": "Short bio\nWrite two or three short paragraphs that cover your research agenda, your current role and affiliation, and what sort of engagement you welcome (seminars, consultancy, policy work, supervision)."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "List invited seminars, conference presentations, and other talks. A simple reverse chronological list usually works best."
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "2025",
+    "text": "2025\n\nConference or seminar, Institution, Month Year. Title of talk. Slides\n\nWorkshop, Institution, Month Year. Title of talk. Video"
+  }
+]

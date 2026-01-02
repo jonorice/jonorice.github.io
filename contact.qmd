@@ -1,0 +1,36 @@
+---
+title: "Contact"
+---
+
+## Email
+
+The most reliable option is usually a direct email link.
+
+- Email: <your.name@institution.edu>
+
+## Contact form (optional)
+
+If you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.
+
+<form action="https://formspree.io/f/yourFormId" method="POST">
+  <label>
+    Your name<br>
+    <input type="text" name="name" required>
+  </label>
+  <br><br>
+  <label>
+    Your email<br>
+    <input type="email" name="email" required>
+  </label>
+  <br><br>
+  <label>
+    Message<br>
+    <textarea name="message" rows="7" required></textarea>
+  </label>
+  <br><br>
+  <button type="submit">Send</button>
+</form>
+
+<p class="small-note">
+If you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it.
+</p>

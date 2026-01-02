@@ -1,0 +1,43 @@
+---
+title: "Home"
+page-layout: full
+---
+
+<div class="home-grid">
+  <div>
+    <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jono Surname" class="headshot">
+    <p class="small-note">
+      Replace this image with your own headshot, keep the same filename or update the path in <code>index.qmd</code>.
+    </p>
+  </div>
+
+  <div>
+
+# Jono Surname
+
+I am an academic economist specialising in macroeconomics and applied microeconomics. My research interests include monetary policy, labour markets, and the economics of climate risk.
+
+I am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.
+
+<p class="keywords"><strong>Research interests</strong> Monetary economics, labour, climate and energy, policy evaluation</p>
+
+<p class="pub-links">
+  <a href="research.qmd">Research</a>
+  <a href="cv.qmd">CV</a>
+  <a href="contact.qmd">Contact</a>
+</p>
+
+  </div>
+</div>
+
+## Latest and selected work
+
+- **Title of paper (forthcoming)**, with Coauthor One and Coauthor Two.  
+  <span class="pub-links"><a href="#">PDF</a> <a href="#">Journal</a> <a href="#">Code</a></span>
+
+- **Title of working paper**, with Coauthor Three.  
+  <span class="pub-links"><a href="#">PDF</a> <a href="#">Slides</a></span>
+
+## Short bio
+
+Write two or three short paragraphs that cover your research agenda, your current role and affiliation, and what sort of engagement you welcome (seminars, consultancy, policy work, supervision).

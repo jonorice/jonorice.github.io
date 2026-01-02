@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+---
+
+List modules, short descriptions, and any teaching materials you can share. For each module, include the institution, year, and your role.
+
+## Example module
+
+**Module title**, Institution (Year)  
+Short description of the module, with a link to a syllabus if available.

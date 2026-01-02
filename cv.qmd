@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+You can provide your CV as a PDF for download, and optionally embed it on this page.
+
+- [Download my CV (PDF)](files/cv-placeholder.pdf)
+
+<object data="files/cv-placeholder.pdf" type="application/pdf" width="100%" height="900px">
+  <p>Your browser cannot display embedded PDFs. You can <a href="files/cv-placeholder.pdf">download the CV as a PDF</a>.</p>
+</object>

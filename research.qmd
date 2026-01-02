@@ -1,0 +1,59 @@
+---
+title: "Research"
+---
+
+This page is structured so that you can keep three distinct research outputs visible and easy to navigate. For each item, include stable links, ideally a journal landing page or DOI for publications, and a PDF link for working papers and policy outputs.
+
+::: {.panel-tabset}
+
+## Publications
+
+<div class="pub-item">
+<strong>Title of published article</strong> (Year)  
+Jono Surname, Coauthor One, Coauthor Two  
+<em>Journal Name</em>, volume(issue), pages  
+<span class="pub-links"><a href="#">Journal</a> <a href="#">DOI</a> <a href="#">PDF</a> <a href="#">Replication package</a></span>
+</div>
+
+<details>
+  <summary>Abstract</summary>
+  <p>Write a brief abstract or a short summary. Many economists prefer a short summary that is less technical than the journal abstract.</p>
+</details>
+
+<div class="pub-item">
+<strong>Title of published article</strong> (Year)  
+Jono Surname, Coauthor Three  
+<em>Journal Name</em>  
+<span class="pub-links"><a href="#">Journal</a> <a href="#">DOI</a> <a href="#">Ungated PDF</a></span>
+</div>
+
+## Working Papers
+
+<div class="pub-item">
+<strong>Title of working paper</strong> (Year)  
+Jono Surname, Coauthor One  
+<span class="pub-links"><a href="#">PDF</a> <a href="#">Appendix</a> <a href="#">Code</a> <a href="#">Slides</a></span>  
+<span class="small-note">Status revise and resubmit at Journal Name (optional)</span>
+</div>
+
+<div class="pub-item">
+<strong>Title of working paper</strong> (Year)  
+Jono Surname  
+<span class="pub-links"><a href="#">PDF</a> <a href="#">Data</a> <a href="#">Code</a></span>
+</div>
+
+## Policy Contributions
+
+<div class="pub-item">
+<strong>Title of policy brief or report</strong> (Year)  
+Institution or commissioning body  
+<span class="pub-links"><a href="#">Report</a> <a href="#">Appendix</a> <a href="#">Data</a></span>
+</div>
+
+<div class="pub-item">
+<strong>Title of consultation response or written evidence</strong> (Year)  
+Parliamentary committee or agency  
+<span class="pub-links"><a href="#">Submission</a></span>
+</div>
+
+:::

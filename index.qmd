@@ -5,7 +5,7 @@ page-layout: full
 
 <div class="home-grid">
   <div>
-    <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jonathan Rice" class="headshot">
+  <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jonathan Rice" class="headshot">
   </div>
 
   <div>

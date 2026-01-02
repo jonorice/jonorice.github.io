@@ -5,17 +5,14 @@ page-layout: full
 
 <div class="home-grid">
   <div>
-    <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jono Surname" class="headshot">
-    <p class="small-note">
-      Replace this image with your own headshot, keep the same filename or update the path in <code>index.qmd</code>.
-    </p>
+    <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jonathan Rice" class="headshot">
   </div>
 
   <div>
 
-# Jono Surname
+# Jonathan Rice
 
-test test I am an academic economist specialising in macroeconomics and applied microeconomics. My research interests include monetary policy, labour markets, and the economics of climate risk.
+test test I am an academic economist specialising in xyz. My research interests include xyz
 
 I am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.
 

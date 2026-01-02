@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "List modules, short descriptions, and any teaching materials you can share. For each module, include the institution, year, and your role."
+  },
+  {
+    "objectID": "teaching.html#example-module",
+    "href": "teaching.html#example-module",
+    "title": "Teaching",
+    "section": "Example module",
+    "text": "Example module\nModule title, Institution (Year)\nShort description of the module, with a link to a syllabus if available."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Below is a curated list of my research outputs, grouped into Publications, Working Papers, and Policy Contributions. Where possible, I include links to the publisher page, open-access versions, and related policy write-ups.\n\nPublicationsWorking PapersPolicy Contributions\n\n\n\nRiding the rate wave: Interest rate and run risks in euro area banks during the 2022–2023 monetary cycle (2026)\nJonathan Rice, Giulia Maria Guerrini\nJournal of International Money and Finance, 160, 103444\n Journal DOI Working paper (ECB WP 3090) SSRN \nThis paper studies how the 2022–2023 interest-rate tightening affected euro area banks’ economic net worth and their vulnerability to deposit runs, using granular supervisory data.\nVoxEU - Interest rate and deposit run risk: New evidence from euro area banks during 2022–2023 tightening\nSUERF Policy Brief - Why euro area banks stayed resilient amid rising rates (Policy Brief No. 1263)\n\n\nThe Macroeconomics of AI Capacity: Insights from a Two-Asset Growth Model (forthcoming, 2026)\nJonathan Rice\nMacroeconomic Dynamics\nThis paper develops a growth framework for thinking about AI capacity as an economic asset, and the macroeconomic implications of capacity accumulation.\n\n\nEconomic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland (2023)\nJonathan Rice\nThe Economic and Social Review, 54(4), 217–245\n Journal PDF \nThis paper studies how policy uncertainty shocks transmit in a small open economy, focusing on Ireland.\n\n\n\n\nAI Hardware Depreciation and Labour Markets (work in progress)\nJonathan Rice, Giulia Maria Guerrini\nDraft available upon request.\n\n\nStructural Scenario Analysis with Granular Stress Testing Models (work in progress)\nJonathan Rice, Juan Rubio Ramirez\nDraft available upon request.\n\n\n\n\nNavigating tail risks: assessing euro area economic growth and equity markets (2025)\nEuropean Systemic Risk Board, Macroprudential Commentaries, No. 9\n PDF \nVoxEU - Macro-financial disconnect in the euro area: Assessing tail risks to euro area growth and equities\n\n\nA Framework for Macroprudential Stress Testing (2022)\nCentral Bank of Ireland, Research Technical Paper 07/RT/22\n PDF \n\n\nRisk Weights on Non-Financial Corporate Exposures in Irish Retail Banks (2022)\nCentral Bank of Ireland, Financial Stability Note 04/FSN/22\n PDF \n\n\nRisk Weights on Irish Mortgages (2022)\nCentral Bank of Ireland, Financial Stability Note 01/FSN/22\n PDF \n\n\nIrish Mortgage Payment Breaks, Extensions and Expirations (2021)\nCentral Bank of Ireland, Financial Stability Note 07/FSN/21\n PDF \n\n\nExchange rate pass-through in the euro area and EU countries (2020)\nEuropean Central Bank, Occasional Paper Series No. 241\n PDF \n\n\nNon-Tariff Barriers and Goods Trade: A Brexit Impact Analysis (2018)\nCentral Bank of Ireland, Research Technical Paper 06/RT/18\n PDF \nVoxEU - The impact of non-tariff barriers on EU goods trade after Brexit\n\n\nGlobal and Domestic Modeling of Macroeconomic Shocks: A GVAR Analysis of Ireland (2017)\nMichael O’Grady, Jonathan Rice, Graeme Walsh\nCentral Bank of Ireland, Research Technical Paper 09/RT/17\n Press release PDF \n\n\nExchange Rate Pass-Through to Domestic Prices (2017)\nPaul Reddan, Jonathan Rice\nCentral Bank of Ireland, Economic Letter Vol. 2017, No. 8\n PDF \n\n\nExploring recent drivers of personal consumption expenditure (2017)\nJonathan Rice, Stephen Byrne\nCentral Bank of Ireland, Quarterly Bulletin 02 / April 2017 (Box C)\n PDF \n\n\nEstimating the Fiscal Multiplier using Propensity Score Matching Techniques (2014)\nJonathan Rice\nTrinity College Dublin, TRISS Economics Research Papers\nDraft available upon request."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can provide your CV as a PDF for download, and optionally embed it on this page.\n\nDownload my CV (PDF)\n\n\n\nYour browser cannot display embedded PDFs. You can download the CV as a PDF."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Write a short academic biography here. Aim for a professional tone, and keep it current. Most visitors decide whether your work is relevant to them within the first minute, so prioritise clarity over exhaustive detail.\nYou may wish to include a one paragraph version for casual readers, and a longer version for academic audiences."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Write a short academic biography here. Aim for a professional tone, and keep it current. Most visitors decide whether your work is relevant to them within the first minute, so prioritise clarity over exhaustive detail.\nYou may wish to include a one paragraph version for casual readers, and a longer version for academic audiences."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics, University, Year\n\nMSc in Economics, University, Year\n\nBSc in Economics, University, Year"
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About",
+    "section": "Professional experience",
+    "text": "Professional experience\n\nResearch Economist, Institution, Year to present\n\nLecturer, Institution, Year to Year\n\nPolicy Economist, Institution, Year to Year"
+  },
+  {
+    "objectID": "about.html#affiliations-and-service",
+    "href": "about.html#affiliations-and-service",
+    "title": "About",
+    "section": "Affiliations and service",
+    "text": "Affiliations and service\nInclude editorial roles, professional societies, committees, and other academic service that you want visible."
+  },
+  {
+    "objectID": "about.html#media-and-public-engagement",
+    "href": "about.html#media-and-public-engagement",
+    "title": "About",
+    "section": "Media and public engagement",
+    "text": "Media and public engagement\nIf you do any media work, public lectures, or expert commentary, this is a good place to list it with links."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
+  },
+  {
+    "objectID": "contact.html#contact-form-optional",
+    "href": "contact.html#contact-form-optional",
+    "title": "Contact",
+    "section": "Contact form (optional)",
+    "text": "Contact form (optional)\nIf you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.\n\n Your name     Your email     Message\n\n  Send\n\n\nIf you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jonathan Rice\" class=\"headshot\"&gt;\n\n\n\ntest test I am an academic economist specialising in xyz. My research interests include xyz\nI am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.\n\nResearch interests Monetary economics, labour, climate and energy, policy evaluation\n\n\nResearch CV Contact"
+  },
+  {
+    "objectID": "index.html#latest-and-selected-work",
+    "href": "index.html#latest-and-selected-work",
+    "title": "Home",
+    "section": "Latest and selected work",
+    "text": "Latest and selected work\n\nTitle of paper (forthcoming), with Coauthor One and Coauthor Two.\nPDF Journal Code\nTitle of working paper, with Coauthor Three.\nPDF Slides"
+  },
+  {
+    "objectID": "index.html#short-bio",
+    "href": "index.html#short-bio",
+    "title": "Home",
+    "section": "Short bio",
+    "text": "Short bio\nWrite two or three short paragraphs that cover your research agenda, your current role and affiliation, and what sort of engagement you welcome (seminars, consultancy, policy work, supervision)."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "List invited seminars, conference presentations, and other talks. A simple reverse chronological list usually works best."
+  },
+  {
+    "objectID": "talks.html#section",
+    "href": "talks.html#section",
+    "title": "Talks",
+    "section": "2025",
+    "text": "2025\n\nConference or seminar, Institution, Month Year. Title of talk. Slides\n\nWorkshop, Institution, Month Year. Title of talk. Video"
+  }
+]

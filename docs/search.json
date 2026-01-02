@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jono Surname\" class=\"headshot\"&gt;\n&lt;p class=\"small-note\"&gt;\n  Replace this image with your own headshot, keep the same filename or update the path in &lt;code&gt;index.qmd&lt;/code&gt;.\n&lt;/p&gt;\n\n\n\nI am an academic economist specialising in macroeconomics and applied microeconomics. My research interests include monetary policy, labour markets, and the economics of climate risk.\nI am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.\n\nResearch interests Monetary economics, labour, climate and energy, policy evaluation\n\n\nResearch CV Contact"
+    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jono Surname\" class=\"headshot\"&gt;\n&lt;p class=\"small-note\"&gt;\n  Replace this image with your own headshot, keep the same filename or update the path in &lt;code&gt;index.qmd&lt;/code&gt;.\n&lt;/p&gt;\n\n\n\ntest test I am an academic economist specialising in macroeconomics and applied microeconomics. My research interests include monetary policy, labour markets, and the economics of climate risk.\nI am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.\n\nResearch interests Monetary economics, labour, climate and energy, policy evaluation\n\n\nResearch CV Contact"
   },
   {
     "objectID": "index.html#latest-and-selected-work",

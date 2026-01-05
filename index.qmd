@@ -6,14 +6,14 @@ page-layout: full
 ::: {.home-grid}
 
 ::: {}
-![Portrait photograph of Jonathan Rice](images/headshot-placeholder.png){.headshot}
+![](images/headshot-placeholder.png){.headshot}
 :::
 
 ::: {}
 
 # About
 
-Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division. My research interests span topics in banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College, Dublin.
+Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division.
 
 **Research interests** Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks
 

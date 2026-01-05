@@ -1,16 +1,20 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/
+    - files/
+    - CNAME
 
 website:
   title: "Jonathan Rice"
-  description: "Financial Stability Expert at the European Central Bank. Banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks."
+  description: "Financial Stability Expert at the European Central Bank. Research on banking, artificial intelligence, and the international transmission of macro-financial shocks."
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: data.qmd
+        text: Data
       - href: research.qmd
         text: Research
       - href: teaching.qmd
@@ -23,7 +27,7 @@ website:
         text: Contact
 
   page-footer:
-    left: "© Jonathan Rice"
+    left: "© 2026 Jonathan Rice"
     right:
       - text: "Built with Quarto"
         href: https://quarto.org

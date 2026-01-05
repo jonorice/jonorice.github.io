@@ -1,0 +1,24 @@
+---
+title: "Data"
+---
+
+## Ireland Economic Policy Uncertainty Index
+
+I maintain the Ireland Economic Policy Uncertainty Index dataset and related materials.
+
+- External project page  
+  <https://www.policyuncertainty.com/ireland_rice.html>
+
+## Local downloads
+
+If you would like to host a local copy of the dataset on this website, place your data files in the `files/` folder of your Quarto project and link to them from this page.
+
+For example, if you add a file called `files/ireland-epu-index.xlsx`, you can link it like this.
+
+- [Ireland EPU Index (CSV)](files/ireland-epu-index.xlsx)
+
+You can also include documentation files in the same way, for example `files/ireland-epu-methodology.pdf`.
+
+## Citation
+
+If you want visitors to cite the dataset, add a short recommended citation here once you have settled the preferred format.

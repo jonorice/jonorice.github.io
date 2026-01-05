@@ -11,6 +11,8 @@ page-layout: full
 
 ::: {}
 
+# About
+
 Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division.
 
 **Research interests** Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks
@@ -24,13 +26,13 @@ Welcome to my website! I am currently working as a Financial Stability Expert at
 ## Ongoing Research
 
 - **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
-  <span class="pub-links">Draft available on request</span>
+  <span class="pub-links"><a href="#">Draft available on request</a></span>
 
 - **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  
-  <span class="pub-links">Draft available on request</span>
+  <span class="pub-links"><a href="#">Draft available on request</a></span>
 
 - **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  
-  <span class="pub-links">Draft available on request</span>
+  <span class="pub-links"><a href="#">Draft available on request</a></span>
 
 
 ## Data

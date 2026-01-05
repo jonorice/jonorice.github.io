@@ -16,6 +16,10 @@ website:
         text: Data
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks.qmd
+        text: Talks
       - href: cv.qmd
         text: CV
       - href: contact.qmd

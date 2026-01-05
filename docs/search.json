@@ -21,25 +21,32 @@
     "text": "Below is a curated list of my research outputs, grouped into Publications, Working Papers, and Policy Contributions. Where possible, I include links to the publisher page, open-access versions, and related policy write-ups.\n\nPublicationsWorking PapersPolicy Contributions\n\n\n\nRiding the rate wave: Interest rate and run risks in euro area banks during the 2022–2023 monetary cycle (2026)\nJonathan Rice, Giulia Maria Guerrini\nJournal of International Money and Finance, 160, 103444\n Journal DOI Working paper (ECB WP 3090) SSRN \nThis paper studies how the 2022–2023 interest-rate tightening affected euro area banks’ economic net worth and their vulnerability to deposit runs, using granular supervisory data.\nVoxEU - Interest rate and deposit run risk: New evidence from euro area banks during 2022–2023 tightening\nSUERF Policy Brief - Why euro area banks stayed resilient amid rising rates (Policy Brief No. 1263)\n\n\nThe Macroeconomics of AI Capacity: Insights from a Two-Asset Growth Model (forthcoming, 2026)\nJonathan Rice\nMacroeconomic Dynamics\nThis paper develops a growth framework for thinking about AI capacity as an economic asset, and the macroeconomic implications of capacity accumulation.\n\n\nEconomic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland (2023)\nJonathan Rice\nThe Economic and Social Review, 54(4), 217–245\n Journal PDF \nThis paper studies how policy uncertainty shocks transmit in a small open economy, focusing on Ireland.\n\n\n\n\nAI Hardware Depreciation and Labour Markets (work in progress)\nJonathan Rice, Giulia Maria Guerrini\nDraft available upon request.\n\n\nStructural Scenario Analysis with Granular Stress Testing Models (work in progress)\nJonathan Rice, Juan Rubio Ramirez\nDraft available upon request.\n\n\n\n\nNavigating tail risks: assessing euro area economic growth and equity markets (2025)\nEuropean Systemic Risk Board, Macroprudential Commentaries, No. 9\n PDF \nVoxEU - Macro-financial disconnect in the euro area: Assessing tail risks to euro area growth and equities\n\n\nA Framework for Macroprudential Stress Testing (2022)\nCentral Bank of Ireland, Research Technical Paper 07/RT/22\n PDF \n\n\nRisk Weights on Non-Financial Corporate Exposures in Irish Retail Banks (2022)\nCentral Bank of Ireland, Financial Stability Note 04/FSN/22\n PDF \n\n\nRisk Weights on Irish Mortgages (2022)\nCentral Bank of Ireland, Financial Stability Note 01/FSN/22\n PDF \n\n\nIrish Mortgage Payment Breaks, Extensions and Expirations (2021)\nCentral Bank of Ireland, Financial Stability Note 07/FSN/21\n PDF \n\n\nExchange rate pass-through in the euro area and EU countries (2020)\nEuropean Central Bank, Occasional Paper Series No. 241\n PDF \n\n\nNon-Tariff Barriers and Goods Trade: A Brexit Impact Analysis (2018)\nCentral Bank of Ireland, Research Technical Paper 06/RT/18\n PDF \nVoxEU - The impact of non-tariff barriers on EU goods trade after Brexit\n\n\nGlobal and Domestic Modeling of Macroeconomic Shocks: A GVAR Analysis of Ireland (2017)\nMichael O’Grady, Jonathan Rice, Graeme Walsh\nCentral Bank of Ireland, Research Technical Paper 09/RT/17\n Press release PDF \n\n\nExchange Rate Pass-Through to Domestic Prices (2017)\nPaul Reddan, Jonathan Rice\nCentral Bank of Ireland, Economic Letter Vol. 2017, No. 8\n PDF \n\n\nExploring recent drivers of personal consumption expenditure (2017)\nJonathan Rice, Stephen Byrne\nCentral Bank of Ireland, Quarterly Bulletin 02 / April 2017 (Box C)\n PDF \n\n\nEstimating the Fiscal Multiplier using Propensity Score Matching Techniques (2014)\nJonathan Rice\nTrinity College Dublin, TRISS Economics Research Papers\nDraft available upon request."
   },
   {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland.\nThe series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.\n\n\nDownload the Ireland Economic Policy Uncertainty dataset (Excel)\n\n\n\nThe Excel file contains monthly observations with three columns.\n\nDate\nMonth identifier (recorded as the first day of each month).\nIreland_main_epu\nA newspaper-based index of Irish Economic Policy Uncertainty.\nIreland_domestic_epu\nAn orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).\n\n\n\n\nFollowing the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, The Irish Times and the Irish Independent.\nThe index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.\nTo separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.\n\n\n\n\n\n\n\n\nExternal data page, https://www.policyuncertainty.com/ireland_rice.html\n\nJournal article landing page, https://www.esr.ie/article/view/2531\n\nWorking paper version (construction details), https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4\n\n\n\n\nIf you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details."
+    "text": "Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division.\nResearch interests Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks\nResearch · CV · Data · Contact"
   },
   {
-    "objectID": "data.html#irish-economic-policy-uncertainty-data",
-    "href": "data.html#irish-economic-policy-uncertainty-data",
-    "title": "Data",
-    "section": "",
-    "text": "This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland.\nThe series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.\n\n\nDownload the Ireland Economic Policy Uncertainty dataset (Excel)\n\n\n\nThe Excel file contains monthly observations with three columns.\n\nDate\nMonth identifier (recorded as the first day of each month).\nIreland_main_epu\nA newspaper-based index of Irish Economic Policy Uncertainty.\nIreland_domestic_epu\nAn orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).\n\n\n\n\nFollowing the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, The Irish Times and the Irish Independent.\nThe index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.\nTo separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.\n\n\n\n\n\n\n\n\nExternal data page, https://www.policyuncertainty.com/ireland_rice.html\n\nJournal article landing page, https://www.esr.ie/article/view/2531\n\nWorking paper version (construction details), https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4\n\n\n\n\nIf you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details."
+    "objectID": "index.html#ongoing-research",
+    "href": "index.html#ongoing-research",
+    "title": "Home",
+    "section": "Ongoing Research",
+    "text": "Ongoing Research\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDraft available on request\nEuro Area Investment Patterns and Exposure to AI-dependent Firms, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.\nDraft available on request\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDraft available on request"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Home",
+    "section": "Data",
+    "text": "Data\nI maintain the Ireland Economic Policy Uncertainty Index dataset and related materials. See the Data page, and the external project page at https://www.policyuncertainty.com/ireland_rice.html."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Use the form below to contact me.\n\nName \nEmail \nMessage\n\n\n\n\n\n\n\nSend\n\n\n\nThis form is processed by Formspree (a third-party form backend). Please do not include sensitive personal information."
+    "text": "You can provide your CV as a PDF for download, and optionally embed it on this page.\n\nDownload my CV (PDF)\n\n\n\nYour browser cannot display embedded PDFs. You can download the CV as a PDF."
   },
   {
     "objectID": "about.html",
@@ -84,29 +91,43 @@
     "text": "Media and public engagement\nIf you do any media work, public lectures, or expert commentary, this is a good place to list it with links."
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "You can provide your CV as a PDF for download, and optionally embed it on this page.\n\nDownload my CV (PDF)\n\n\n\nYour browser cannot display embedded PDFs. You can download the CV as a PDF."
+    "text": "Use the form below to contact me.\n\nName \nEmail \nMessage\n\n\n\n\n\n\n\nSend\n\n\n\nThis form is processed by Formspree (a third-party form backend). Please do not include sensitive personal information."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland.\nThe series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.\n\n\nDownload the Ireland Economic Policy Uncertainty dataset (Excel)\n\n\n\nThe Excel file contains monthly observations with three columns.\n\nDate\nMonth identifier (recorded as the first day of each month).\nIreland_main_epu\nA newspaper-based index of Irish Economic Policy Uncertainty.\nIreland_domestic_epu\nAn orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).\n\n\n\n\nFollowing the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, The Irish Times and the Irish Independent.\nThe index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.\nTo separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.\n\n\n\n\n\n\n\n\nExternal data page, https://www.policyuncertainty.com/ireland_rice.html\n\nJournal article landing page, https://www.esr.ie/article/view/2531\n\nWorking paper version (construction details), https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4\n\n\n\n\nIf you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details."
+  },
+  {
+    "objectID": "data.html#irish-economic-policy-uncertainty-data",
+    "href": "data.html#irish-economic-policy-uncertainty-data",
+    "title": "Data",
+    "section": "",
+    "text": "This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland.\nThe series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.\n\n\nDownload the Ireland Economic Policy Uncertainty dataset (Excel)\n\n\n\nThe Excel file contains monthly observations with three columns.\n\nDate\nMonth identifier (recorded as the first day of each month).\nIreland_main_epu\nA newspaper-based index of Irish Economic Policy Uncertainty.\nIreland_domestic_epu\nAn orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).\n\n\n\n\nFollowing the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, The Irish Times and the Irish Independent.\nThe index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.\nTo separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.\n\n\n\n\n\n\n\n\nExternal data page, https://www.policyuncertainty.com/ireland_rice.html\n\nJournal article landing page, https://www.esr.ie/article/view/2531\n\nWorking paper version (construction details), https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4\n\n\n\n\nIf you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details."
+  },
+  {
+    "objectID": "index_old.html",
+    "href": "index_old.html",
     "title": "Home",
     "section": "",
     "text": "Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division.\nResearch interests Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks\nResearch · CV · Data · Contact"
   },
   {
-    "objectID": "index.html#ongoing-research",
-    "href": "index.html#ongoing-research",
+    "objectID": "index_old.html#ongoing-research",
+    "href": "index_old.html#ongoing-research",
     "title": "Home",
     "section": "Ongoing Research",
     "text": "Ongoing Research\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDraft available on request\nEuro Area Investment Patterns and Exposure to AI-dependent Firms, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.\nDraft available on request\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDraft available on request"
   },
   {
-    "objectID": "index.html#data",
-    "href": "index.html#data",
+    "objectID": "index_old.html#data",
+    "href": "index_old.html#data",
     "title": "Home",
     "section": "Data",
     "text": "Data\nI maintain the Ireland Economic Policy Uncertainty Index dataset and related materials. See the Data page, and the external project page at https://www.policyuncertainty.com/ireland_rice.html."

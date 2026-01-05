@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-You can provide your CV as a PDF for download, and optionally embed it on this page.
-
 - [Download my CV (PDF)](files/cv.pdf)
 
 <object data="files/cv.pdf" type="application/pdf" width="100%" height="900px">

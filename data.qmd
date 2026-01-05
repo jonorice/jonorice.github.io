@@ -41,8 +41,8 @@ To separate domestic from global influences, I estimate a global component of po
 ### Paper and documentation
 
 - External data page: [Link](https://www.policyuncertainty.com/ireland_rice.html)  
-- Journal version: [Link](https://www.esr.ie/article/view/2531)  
-- Working paper version (construction details): [Link](https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4)
+- Journal version of the paper: [Link](https://www.esr.ie/article/view/2531)  
+- Working paper version: [Link](https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4)
 
 ### Suggested citation
 

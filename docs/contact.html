@@ -153,27 +153,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="email" class="level2">
-<h2 class="anchored" data-anchor-id="email">Email</h2>
-<p>The most reliable option is usually a direct email link.</p>
-<ul>
-<li>Email: <a href="mailto:your.name@institution.edu" class="email">your.name@institution.edu</a></li>
-</ul>
-</section>
-<section id="contact-form-optional" class="level2">
-<h2 class="anchored" data-anchor-id="contact-form-optional">Contact form (optional)</h2>
-<p>If you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.</p>
-<form action="https://formspree.io/f/yourFormId" method="POST">
-<label> Your name<br> <input type="text" name="name" required=""> </label> <br><br> <label> Your email<br> <input type="email" name="email" required=""> </label> <br><br> <label> Message<br>
-<textarea name="message" rows="7" required=""></textarea>
-</label> <br><br> <button type="submit">Send</button>
+<p>Use the form below to contact me.</p>
+<form action="https://formspree.io/f/mnjnwwly" method="POST">
+<p><label for="name">Name</label><br> <input id="name" name="name" type="text" autocomplete="name" required=""><br><br></p>
+<p><label for="email">Email</label><br> <input id="email" name="email" type="email" autocomplete="email" required=""><br><br></p>
+<label for="message">Message</label><br>
+<textarea id="message" name="message" rows="7" required=""></textarea>
+<p><br><br></p>
+<!-- Honeypot field for basic spam filtering -->
+<p><input type="text" name="_gotcha" style="display:none"></p>
+<!-- Set a helpful email subject line in your inbox -->
+<p><input type="hidden" name="subject" value="New message from ricejonathan.com"></p>
+<button type="submit">
+Send
+</button>
 </form>
 <p class="small-note">
-If you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it.
+This form is processed by Formspree (a third-party form backend). Please do not include sensitive personal information.
 </p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

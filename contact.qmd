@@ -1,36 +1,29 @@
 ---
 title: "Contact"
+toc: false
 ---
 
-## Email
+Use the form below to contact me.
 
-The most reliable option is usually a direct email link.
+<form action="https://formspree.io/f/mnjnwwly" method="POST">
+  <label for="name">Name</label><br>
+  <input id="name" name="name" type="text" autocomplete="name" required><br><br>
 
-- Email: <your.name@institution.edu>
+  <label for="email">Email</label><br>
+  <input id="email" name="email" type="email" autocomplete="email" required><br><br>
 
-## Contact form (optional)
+  <label for="message">Message</label><br>
+  <textarea id="message" name="message" rows="7" required></textarea><br><br>
 
-If you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.
+  <!-- Honeypot field for basic spam filtering -->
+  <input type="text" name="_gotcha" style="display:none">
 
-<form action="https://formspree.io/f/yourFormId" method="POST">
-  <label>
-    Your name<br>
-    <input type="text" name="name" required>
-  </label>
-  <br><br>
-  <label>
-    Your email<br>
-    <input type="email" name="email" required>
-  </label>
-  <br><br>
-  <label>
-    Message<br>
-    <textarea name="message" rows="7" required></textarea>
-  </label>
-  <br><br>
+  <!-- Set a helpful email subject line in your inbox -->
+  <input type="hidden" name="subject" value="New message from ricejonathan.com">
+
   <button type="submit">Send</button>
 </form>
 
 <p class="small-note">
-If you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it.
+This form is processed by Formspree (a third-party form backend). Please do not include sensitive personal information.
 </p>

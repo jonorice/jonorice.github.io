@@ -39,21 +39,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "",
-    "text": "The most reliable option is usually a direct email link.\n\nEmail: your.name@institution.edu"
-  },
-  {
-    "objectID": "contact.html#contact-form-optional",
-    "href": "contact.html#contact-form-optional",
-    "title": "Contact",
-    "section": "Contact form (optional)",
-    "text": "Contact form (optional)\nIf you prefer a contact form, a static website needs a form backend service. One approach is Formspree. Replace the form action URL with your own Formspree endpoint, and consider adding basic spam protection.\n\n Your name     Your email     Message\n\n  Send\n\n\nIf you enable a contact form or analytics, add a short privacy notice describing what data is collected, where it is processed, and how long you retain it."
+    "text": "Use the form below to contact me.\n\nName \nEmail \nMessage\n\n\n\n\n\n\n\nSend\n\n\n\nThis form is processed by Formspree (a third-party form backend). Please do not include sensitive personal information."
   },
   {
     "objectID": "about.html",

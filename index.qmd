@@ -12,11 +12,9 @@ page-layout: full
 
 # Jonathan Rice
 
-test test I am an academic economist specialising in xyz. My research interests include xyz
+Jonathan Rice is currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. His research interests span topics in banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. He holds a PhD in Economics from Trinity College, Dublin.
 
-I am currently a Research Economist at Affiliation, and I am available for academic collaboration, policy engagement, and invited seminars.
-
-<p class="keywords"><strong>Research interests</strong> Monetary economics, labour, climate and energy, policy evaluation</p>
+<p class="keywords"><strong>Research interests</strong> Banking, artificial intelligence, international transmission of macroeconomic and financial shocks, financial stability and systemic risk</p>
 
 <p class="pub-links">
   <a href="research.qmd">Research</a>
@@ -27,14 +25,14 @@ I am currently a Research Economist at Affiliation, and I am available for acade
   </div>
 </div>
 
-## Latest and selected work
+## Current Working Papers
 
-- **Title of paper (forthcoming)**, with Coauthor One and Coauthor Two.  
-  <span class="pub-links"><a href="#">PDF</a> <a href="#">Journal</a> <a href="#">Code</a></span>
+- **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
+  <span class="pub-links"><a href="research.qmd">Details</a></span>
 
-- **Title of working paper**, with Coauthor Three.  
-  <span class="pub-links"><a href="#">PDF</a> <a href="#">Slides</a></span>
+- **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  
+  <span class="pub-links"><a href="research.qmd">Details</a></span>
 
 ## Short bio
 
-Write two or three short paragraphs that cover your research agenda, your current role and affiliation, and what sort of engagement you welcome (seminars, consultancy, policy work, supervision).
+Jonathan Rice is a Financial Stability Expert at the European Central Bank, working on topics relating to financial stability and systemic risk. His research interests span banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. He holds a PhD in Economics from Trinity College, Dublin.

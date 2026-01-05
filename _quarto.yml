@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Jono Surname"
-  description: "Academic economist. Publications, working papers, and policy contributions."
+  title: "Jonathan Rice"
+  description: "Financial Stability Expert at the European Central Bank. Banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks."
   navbar:
     left:
       - href: index.qmd
@@ -23,7 +23,7 @@ website:
         text: Contact
 
   page-footer:
-    left: "© 2025 Jono Surname"
+    left: "© Jonathan Rice"
     right:
       - text: "Built with Quarto"
         href: https://quarto.org

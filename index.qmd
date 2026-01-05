@@ -28,7 +28,7 @@ Welcome to my website! I am currently working as a Financial Stability Expert at
 - **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
   <span class="pub-links"><a href="#">Draft available on request</a></span>
 
-- **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Giulia Maria Guerrini, Mikael Hagelstam and Raffaele Giuliana.  
+- **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  
   <span class="pub-links"><a href="#">Draft available on request</a></span>
 
 - **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  

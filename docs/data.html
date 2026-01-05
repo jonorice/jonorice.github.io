@@ -135,9 +135,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ireland-economic-policy-uncertainty-index" id="toc-ireland-economic-policy-uncertainty-index" class="nav-link active" data-scroll-target="#ireland-economic-policy-uncertainty-index">Ireland Economic Policy Uncertainty Index</a></li>
-  <li><a href="#local-downloads" id="toc-local-downloads" class="nav-link" data-scroll-target="#local-downloads">Local downloads</a></li>
-  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
+  <li><a href="#irish-economic-policy-uncertainty-data" id="toc-irish-economic-policy-uncertainty-data" class="nav-link active" data-scroll-target="#irish-economic-policy-uncertainty-data">Irish Economic Policy Uncertainty data</a>
+  <ul class="collapse">
+  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">Download</a></li>
+  <li><a href="#what-is-in-the-file" id="toc-what-is-in-the-file" class="nav-link" data-scroll-target="#what-is-in-the-file">What is in the file</a></li>
+  <li><a href="#construction-overview" id="toc-construction-overview" class="nav-link" data-scroll-target="#construction-overview">Construction overview</a></li>
+  <li><a href="#chart" id="toc-chart" class="nav-link" data-scroll-target="#chart">Chart</a></li>
+  <li><a href="#paper-and-documentation" id="toc-paper-and-documentation" class="nav-link" data-scroll-target="#paper-and-documentation">Paper and documentation</a></li>
+  <li><a href="#suggested-citation" id="toc-suggested-citation" class="nav-link" data-scroll-target="#suggested-citation">Suggested citation</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -163,28 +169,52 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="ireland-economic-policy-uncertainty-index" class="level2">
-<h2 class="anchored" data-anchor-id="ireland-economic-policy-uncertainty-index">Ireland Economic Policy Uncertainty Index</h2>
-<p>I maintain the Ireland Economic Policy Uncertainty Index dataset and related materials.</p>
+<section id="irish-economic-policy-uncertainty-data" class="level2">
+<h2 class="anchored" data-anchor-id="irish-economic-policy-uncertainty-data">Irish Economic Policy Uncertainty data</h2>
+<p>This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper <em>Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland</em>.</p>
+<p>The series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.</p>
+<section id="download" class="level3">
+<h3 class="anchored" data-anchor-id="download">Download</h3>
+<p><a href="files/Ireland_Policy_Uncertainty_Data_Rice.xlsx">Download the Ireland Economic Policy Uncertainty dataset (Excel)</a></p>
+</section>
+<section id="what-is-in-the-file" class="level3">
+<h3 class="anchored" data-anchor-id="what-is-in-the-file">What is in the file</h3>
+<p>The Excel file contains monthly observations with three columns.</p>
 <ul>
-<li>External project page<br>
-<a href="https://www.policyuncertainty.com/ireland_rice.html" class="uri">https://www.policyuncertainty.com/ireland_rice.html</a></li>
+<li><p><code>Date</code><br>
+Month identifier (recorded as the first day of each month).</p></li>
+<li><p><code>Ireland_main_epu</code><br>
+A newspaper-based index of Irish Economic Policy Uncertainty.</p></li>
+<li><p><code>Ireland_domestic_epu</code><br>
+An orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).</p></li>
 </ul>
 </section>
-<section id="local-downloads" class="level2">
-<h2 class="anchored" data-anchor-id="local-downloads">Local downloads</h2>
-<p>If you would like to host a local copy of the dataset on this website, place your data files in the <code>files/</code> folder of your Quarto project and link to them from this page.</p>
-<p>For example, if you add a file called <code>files/ireland-epu-index.xlsx</code>, you can link it like this.</p>
-<ul>
-<li><a href="files/ireland-epu-index.xlsx">Ireland EPU Index (CSV)</a></li>
-</ul>
-<p>You can also include documentation files in the same way, for example <code>files/ireland-epu-methodology.pdf</code>.</p>
+<section id="construction-overview" class="level3">
+<h3 class="anchored" data-anchor-id="construction-overview">Construction overview</h3>
+<p>Following the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, <em>The Irish Times</em> and the <em>Irish Independent</em>.</p>
+<p>The index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.</p>
+<p>To separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.</p>
 </section>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<p>If you want visitors to cite the dataset, add a short recommended citation here once you have settled the preferred format.</p>
+<section id="chart" class="level3">
+<h3 class="anchored" data-anchor-id="chart">Chart</h3>
+<p><img src="images/epu.png" class="img-fluid" alt="Irish Economic Policy Uncertainty indices, main and domestic components"></p>
+</section>
+<section id="paper-and-documentation" class="level3">
+<h3 class="anchored" data-anchor-id="paper-and-documentation">Paper and documentation</h3>
+<ul>
+<li>External data page, https://www.policyuncertainty.com/ireland_rice.html<br>
+</li>
+<li>Journal article landing page, https://www.esr.ie/article/view/2531<br>
+</li>
+<li>Working paper version (construction details), https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4</li>
+</ul>
+</section>
+<section id="suggested-citation" class="level3">
+<h3 class="anchored" data-anchor-id="suggested-citation">Suggested citation</h3>
+<p>If you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -592,7 +622,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Jonathan Rice</p>
+<p>© Jonathan Rice</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

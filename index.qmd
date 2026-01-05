@@ -6,7 +6,7 @@ page-layout: full
 ::: {.home-grid}
 
 ::: {}
-![Portrait photograph of Jonathan Rice](images/headshot-placeholder.png){.headshot}
+(images/headshot-placeholder.png){.headshot}
 :::
 
 ::: {}

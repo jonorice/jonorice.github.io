@@ -39,10 +39,3 @@
   opacity: 0.85;
   font-size: 0.95rem;
 }
-
-/* Homepage alignment tweaks */
-.home-grid h1,
-.home-grid h2,
-.home-grid h3 {
-  margin-top: 0;
-}

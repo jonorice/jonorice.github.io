@@ -1,49 +1,37 @@
 ---
 title: "Home"
 page-layout: full
-toc: false
 ---
 
-<style>
-/* Align the Home page title with the text column of the homepage grid. */
-#title-block-header {
-  padding-left: calc(220px + 1.5rem);
-}
+::: {.home-grid}
 
-@media (max-width: 700px) {
-  #title-block-header {
-    padding-left: 0;
-  }
-}
-</style>
+::: {}
+![Portrait photograph of Jonathan Rice](images/headshot-placeholder.png){.headshot}
+:::
 
-<div class="home-grid">
-  <div>
-    <img src="images/headshot-placeholder.png" alt="Portrait photograph of Jonathan Rice" class="headshot">
-  </div>
-
-  <div>
+::: {}
 
 # About
 
-I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. My research interests span banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College Dublin.
+Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division. My research interests span topics in banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College, Dublin.
 
-<p class="keywords"><strong>Research interests</strong> Banking, artificial intelligence, international transmission of macroeconomic and financial shocks, financial stability and systemic risk</p>
+**Research interests** Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks
 
-<p class="pub-links">
-  <a href="research.qmd">Research</a>
-  <a href="data.qmd">Data</a>
-  <a href="cv.qmd">CV</a>
-  <a href="contact.qmd">Contact</a>
-</p>
+[Research](research.qmd) · [CV](cv.qmd) · [Data](data.qmd) · [Contact](contact.qmd)
 
-  </div>
-</div>
+:::
 
-## Current Working Papers
+:::
+
+## Ongoing Research
 
 - **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
-  <span class="pub-links"><a href="research.qmd#working-papers">Details</a></span>
+  <span class="pub-links"><a href="#">Draft available on request</a></span>
 
 - **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  
-  <span class="pub-links"><a href="research.qmd#working-papers">Details</a></span>
+  <span class="pub-links"><a href="#">Draft available on request</a></span>
+
+
+## Data
+
+I maintain the Ireland Economic Policy Uncertainty Index dataset and related materials. See the [Data](data.qmd) page, and the external project page at <https://www.policyuncertainty.com/ireland_rice.html>.

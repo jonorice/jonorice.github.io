@@ -2,13 +2,12 @@ project:
   type: website
   output-dir: docs
   resources:
-    - CNAME
-    - images/
     - files/
+    - images/
 
 website:
   title: "Jonathan Rice"
-  description: "Academic economist. Financial stability, banking, artificial intelligence, and macro-financial transmission."
+  description: "Financial Stability Expert at the European Central Bank. Research on banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks."
   navbar:
     left:
       - href: index.qmd
@@ -27,7 +26,7 @@ website:
         text: Contact
 
   page-footer:
-    left: "© 2026 Jonathan Rice"
+    left: "© Jonathan Rice"
     right:
       - text: "Built with Quarto"
         href: https://quarto.org
@@ -36,5 +35,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
+    toc: true
     smooth-scroll: true

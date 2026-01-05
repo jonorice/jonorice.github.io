@@ -109,14 +109,21 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jonathan Rice\" class=\"headshot\"&gt;\n\n\n\nI am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. My research interests span banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College Dublin.\n\nResearch interests Banking, artificial intelligence, international transmission of macroeconomic and financial shocks, financial stability and systemic risk\n\n\nResearch Data CV Contact"
+    "text": "Portrait photograph of Jonathan Rice\n\n\n\n\n\nWelcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division. My research interests span topics in banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College, Dublin.\nResearch interests Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks\nResearch · CV · Data · Contact"
   },
   {
-    "objectID": "index.html#current-working-papers",
-    "href": "index.html#current-working-papers",
+    "objectID": "index.html#ongoing-research",
+    "href": "index.html#ongoing-research",
     "title": "Home",
-    "section": "Current Working Papers",
-    "text": "Current Working Papers\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDetails\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDetails"
+    "section": "Ongoing Research",
+    "text": "Ongoing Research\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDraft available on request\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDraft available on request"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Home",
+    "section": "Data",
+    "text": "Data\nI maintain the Ireland Economic Policy Uncertainty Index dataset and related materials. See the Data page, and the external project page at https://www.policyuncertainty.com/ireland_rice.html."
   },
   {
     "objectID": "talks.html",

@@ -109,21 +109,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Portrait photograph of Jonathan Rice\n\n\n\n\n\nJonathan Rice is currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. His research interests span topics in banking, artificial intelligence and the international transmission of macroeconomic and financial shocks. He holds a PhD in Economics from Trinity College, Dublin.\nResearch interests Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks\nResearch · CV · Data · Contact"
+    "text": "&lt;img src=\"images/headshot-placeholder.png\" alt=\"Portrait photograph of Jonathan Rice\" class=\"headshot\"&gt;\n\n\n\nI am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. My research interests span banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks. I hold a PhD in Economics from Trinity College Dublin.\n\nResearch interests Banking, artificial intelligence, international transmission of macroeconomic and financial shocks, financial stability and systemic risk\n\n\nResearch Data CV Contact"
   },
   {
     "objectID": "index.html#current-working-papers",
     "href": "index.html#current-working-papers",
     "title": "Home",
     "section": "Current Working Papers",
-    "text": "Current Working Papers\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDraft available on request\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDraft available on request\nRiding the rate wave: Interest rate and run risks in euro area banks during the 2022–2023 monetary cycle, with Giulia Maria Guerrini.\nECB Working Paper 3090 SSRN"
-  },
-  {
-    "objectID": "index.html#data",
-    "href": "index.html#data",
-    "title": "Home",
-    "section": "Data",
-    "text": "Data\nI maintain the Ireland Economic Policy Uncertainty Index dataset and related materials. See the Data page, and the external project page at https://www.policyuncertainty.com/ireland_rice.html."
+    "text": "Current Working Papers\n\nAI Hardware Depreciation and Labour Markets, with Giulia Maria Guerrini.\nDetails\nStructural Scenario Analysis with Granular Stress Testing Models, with Juan Rubio Ramirez.\nDetails"
   },
   {
     "objectID": "talks.html",

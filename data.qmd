@@ -11,7 +11,7 @@ The series are hosted externally by the Economic Policy Uncertainty project and 
 
 ### Download
 
-[Download the Ireland Economic Policy Uncertainty dataset (Excel)](files/Ireland_Policy_Uncertainty_Data_Rice.xlsx)
+[Download the Ireland Economic Policy Uncertainty dataset (Excel)](files/ireland-epu-index.xlsx)
 
 ### What is in the file
 
@@ -46,4 +46,4 @@ To separate domestic from global influences, I estimate a global component of po
 
 ### Suggested citation
 
-If you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details.
+If you use these data, please cite the journal article as follows: Rice, Jonathan (2023). "Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland". The Economic and Social Review, 54(4), 217-245.

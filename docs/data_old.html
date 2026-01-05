@@ -96,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./data.html" aria-current="page"> 
+    <a class="nav-link" href="./data.html"> 
 <span class="menu-text">Data</span></a>
   </li>  
   <li class="nav-item">
@@ -134,7 +134,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#construction-overview" id="toc-construction-overview" class="nav-link" data-scroll-target="#construction-overview">Construction overview</a></li>
   <li><a href="#chart" id="toc-chart" class="nav-link" data-scroll-target="#chart">Chart</a></li>
   <li><a href="#paper-and-documentation" id="toc-paper-and-documentation" class="nav-link" data-scroll-target="#paper-and-documentation">Paper and documentation</a></li>
-  <li><a href="#suggested-citation" id="toc-suggested-citation" class="nav-link" data-scroll-target="#suggested-citation">Suggested citation</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -163,8 +162,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="irish-economic-policy-uncertainty-data" class="level2">
 <h2 class="anchored" data-anchor-id="irish-economic-policy-uncertainty-data">Irish Economic Policy Uncertainty data</h2>
-<p>This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper <em>Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland</em>.</p>
-<p>The series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.</p>
+<p>This page provides the data that underpin my work on Irish economic policy uncertainty, including the paper <em>Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland</em>. I aim to keep the series as up-to-date as possible.</p>
 <section id="download" class="level3">
 <h3 class="anchored" data-anchor-id="download">Download</h3>
 <p><a href="files/Ireland_Policy_Uncertainty_Data_Rice.xlsx">Download the Ireland Economic Policy Uncertainty dataset (Excel)</a></p>
@@ -176,14 +174,14 @@ ul.task-list li input[type="checkbox"] {
 <li><p><code>Date</code><br>
 Month identifier (recorded as the first day of each month).</p></li>
 <li><p><code>Ireland_main_epu</code><br>
-A newspaper-based index of Irish Economic Policy Uncertainty.</p></li>
+A newspaper-based index of Irish Economic Policy Uncertainty. This is the headline series and is available monthly from January 1982.</p></li>
 <li><p><code>Ireland_domestic_epu</code><br>
-An orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component (see the construction notes below).</p></li>
+An orthogonal domestic component of Irish EPU, constructed by purging the main series of its global component. This series is used in the paper to consider the impact of local/domestic uncertainty shocks.</p></li>
 </ul>
 </section>
 <section id="construction-overview" class="level3">
 <h3 class="anchored" data-anchor-id="construction-overview">Construction overview</h3>
-<p>Following the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from two leading Irish newspapers, <em>The Irish Times</em> and the <em>Irish Independent</em>.</p>
+<p>Following the newspaper-based approach in Baker, Bloom and Davis (2016), I construct a monthly measure of Irish Economic Policy Uncertainty from January 1982 onwards using newspaper archives from three leading Irish newspapers: <em>The Irish Times</em>, the <em>Irish Independent</em> and <em>The Irish Examiner</em>.</p>
 <p>The index is built from a keyword search that identifies articles containing terms related to uncertainty, the economy, and policy. Monthly article counts are scaled by the total number of articles in each month and then standardised.</p>
 <p>To separate domestic from global influences, I estimate a global component of policy uncertainty using principal components analysis and then obtain an orthogonal Irish domestic series via regression.</p>
 </section>
@@ -194,15 +192,12 @@ An orthogonal domestic component of Irish EPU, constructed by purging the main s
 <section id="paper-and-documentation" class="level3">
 <h3 class="anchored" data-anchor-id="paper-and-documentation">Paper and documentation</h3>
 <ul>
-<li>External data page: <a href="https://www.policyuncertainty.com/ireland_rice.html">Link</a><br>
+<li>External data page, https://www.policyuncertainty.com/ireland_rice.html<br>
 </li>
-<li>Journal version: <a href="https://www.esr.ie/article/view/2531">Link</a><br>
+<li>Journal article landing page, https://www.esr.ie/article/view/2531<br>
 </li>
-<li>Working paper version (construction details): <a href="https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4">Link</a></li>
+<li>Working paper version, https://www.centralbank.ie/docs/default-source/publications/research-technical-papers/01rt20-economic-policy-uncertainty-in-small-open-economies-a-case-study-of-ireland-%28rice%29.pdf?sfvrsn=4</li>
 </ul>
-</section>
-<section id="suggested-citation" class="level3">
-<h3 class="anchored" data-anchor-id="suggested-citation">Suggested citation</h3>
 <p>If you use these data, please cite the journal article or the working paper above, depending on whether you are referencing the empirical results or the construction details.</p>
 
 

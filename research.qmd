@@ -51,7 +51,7 @@ This paper studies how policy uncertainty shocks transmit in a small open econom
 
 ::: {.pub-item}
 **AI Hardware Depreciation and Labour Markets** (work in progress)  
-Jonathan Rice, Giulia Maria Guerrini  
+Jonathan Rice, Frederik Andersen, Giulia Maria Guerrini  
 
 Draft available upon request.
 :::

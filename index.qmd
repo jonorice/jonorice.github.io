@@ -23,7 +23,7 @@ Welcome to my website! I am currently working as a Financial Stability Expert at
 
 ## Ongoing Research
 
-- **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
+- **AI Hardware Depreciation and Labour Markets**, with Frederik Andersen and Giulia Maria Guerrini.  
   <span class="pub-links">Draft available on request</span>
 
 - **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  

@@ -57,13 +57,6 @@ This paper studies how policy uncertainty shocks transmit in a small open econom
 ## Working Papers
 
 ::: {.pub-item}
-**AI Hardware Depreciation and Labour Markets** (work in progress)  
-Jonathan Rice, Frederik Andersen, Giulia Maria Guerrini  
-
-Draft available upon request.
-:::
-
-::: {.pub-item}
 **Euro Area Investment Patterns and Exposure to AI-dependent Firms** (work in progress)  
 Jonathan Rice, Raffaele Giuliana, Giulia Maria Guerrini, Mikael Hagelstam  
 
@@ -79,6 +72,15 @@ Draft available upon request.
 
 
 ## Policy Contributions
+
+::: {.pub-item}
+**AI-related imports, modified investment and the data centre build-out** (2026)  
+Jonathan Rice, John Scally  
+Central Bank of Ireland, *Quarterly Bulletin* No. 2 2026 (Box A)  
+<span class="pub-links">
+<a href="https://www.centralbank.ie/publication/quarterly-bulletins/quarterly-bulletin-q2-2026#Box-A-AIrelated-imports-modified-investment-and-the-data-centre-buildout-772adff1-58b6-4592-aa45-43ec06d08ab9">Quarterly Bulletin</a>
+</span>
+:::
 
 ::: {.pub-item}
 **Navigating tail risks: assessing euro area economic growth and equity markets** (2025)  

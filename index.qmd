@@ -13,8 +13,6 @@ page-layout: full
 
 I am a Senior Economist at the Central Bank of Ireland, with prior experience in the private sector and at the European Systemic Risk Board. I'm currently involved in forecasting in the Irish Economic Analysis Division. My research focuses on banking, artificial intelligence, financial stability, systemic risk, and the international transmission of macroeconomic and financial shocks.
 
-**Research interests** Banking, artificial intelligence, financial stability, systemic risk, investment dynamics, and international macro-financial transmission
-
 [Research](research.qmd) | [CV](cv.qmd) | [Data](data.qmd) | [Contact](contact.qmd)
 
 :::

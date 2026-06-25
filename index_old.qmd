@@ -45,6 +45,8 @@ Jonathan Rice, Giulia Maria Guerrini
 [Journal](https://www.sciencedirect.com/science/article/abs/pii/S0261560625001792)
 [ECB Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3090~4852851923.en.pdf)
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383748)
+[VoxEU](https://cepr.org/voxeu/columns/interest-rate-and-deposit-run-risk-new-evidence-euro-area-banks-2022-2023-tightening)
+[SUERF Policy Brief](https://www.suerf.org/wp-content/uploads/2025/09/SUERF-Policy-Brief-1263-_Rice_Guerrini.pdf)
 </span>
 
 Evidence on how the 2022-2023 tightening cycle affected euro area banks' economic net worth and deposit-run risk.
@@ -57,6 +59,7 @@ Jonathan Rice
 <span class="pub-links">
 [Journal](https://www.esr.ie/article/view/2531)
 [PDF](https://www.esr.ie/article/view/2531/771)
+[Data](data.qmd)
 </span>
 
 An empirical study of how policy uncertainty shocks transmit through a small open economy.
@@ -67,9 +70,6 @@ An empirical study of how policy uncertainty shocks transmit through a small ope
 [All research outputs](research.qmd)
 
 ## Work in Progress
-
-- **AI Hardware Depreciation and Labour Markets**, with Frederik Andersen and Giulia Maria Guerrini.  
-  <span class="pub-links">Draft available on request</span>
 
 - **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  
   <span class="pub-links">Draft available on request</span>

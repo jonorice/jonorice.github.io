@@ -9,7 +9,19 @@ Below is a curated list of my research outputs, grouped into **Publications**, *
 ## Publications
 
 ::: {.pub-item}
-**Riding the rate wave: Interest rate and run risks in euro area banks during the 2022–2023 monetary cycle** (2026)  
+**The Macroeconomics of AI Capacity: Insights from a Two-Asset Growth Model** (2026)  
+Jonathan Rice  
+*Macroeconomic Dynamics*, 30, e22  
+<span class="pub-links">
+<a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/macroeconomics-of-ai-capacity-insights-from-a-twoasset-growth-model/BA6A3F533F88E96FD0E7E09B1B0CA049">Cambridge Core</a>
+<a href="https://doi.org/10.1017/S1365100526100911">DOI</a>
+</span>
+
+This paper develops a two-asset growth framework for thinking about AI capacity as an economic asset, with implications for hardware obsolescence, investment dynamics, welfare, and policy.
+:::
+
+::: {.pub-item}
+**Riding the rate wave: Interest rate and run risks in euro area banks during the 2022-2023 monetary cycle** (2026)  
 Jonathan Rice, Giulia Maria Guerrini  
 *Journal of International Money and Finance*, 160, 103444  
 <span class="pub-links">
@@ -18,27 +30,19 @@ Jonathan Rice, Giulia Maria Guerrini
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383748">SSRN</a>
 </span>
 
-This paper studies how the 2022–2023 interest-rate tightening affected euro area banks’ economic net worth and their vulnerability to deposit runs, using granular supervisory data.
+This paper studies how the 2022-2023 interest-rate tightening affected euro area banks' economic net worth and their vulnerability to deposit runs, using granular supervisory data.
 
 **VoxEU**
-- [Interest rate and deposit run risk: New evidence from euro area banks during 2022–2023 tightening](https://cepr.org/voxeu/columns/interest-rate-and-deposit-run-risk-new-evidence-euro-area-banks-2022-2023-tightening)
+- [Interest rate and deposit run risk: New evidence from euro area banks during 2022-2023 tightening](https://cepr.org/voxeu/columns/interest-rate-and-deposit-run-risk-new-evidence-euro-area-banks-2022-2023-tightening)
 
 **SUERF Policy Brief**
 - [Why euro area banks stayed resilient amid rising rates (Policy Brief No. 1263)](https://www.suerf.org/wp-content/uploads/2025/09/SUERF-Policy-Brief-1263-_Rice_Guerrini.pdf)
 :::
 
 ::: {.pub-item}
-**The Macroeconomics of AI Capacity: Insights from a Two-Asset Growth Model** (forthcoming, 2026)  
-Jonathan Rice  
-*Macroeconomic Dynamics*
-
-This paper develops a growth framework for thinking about AI capacity as an economic asset, and the macroeconomic implications of capacity accumulation.
-:::
-
-::: {.pub-item}
 **Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland** (2023)  
 Jonathan Rice  
-*The Economic and Social Review*, 54(4), 217–245  
+*The Economic and Social Review*, 54(4), 217-245  
 <span class="pub-links">
 <a href="https://www.esr.ie/article/view/2531">Journal</a>
 <a href="https://www.esr.ie/article/view/2531/771">PDF</a>

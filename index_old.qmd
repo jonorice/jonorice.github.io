@@ -11,28 +11,71 @@ page-layout: full
 
 ::: {}
 
-# About
+I am a Senior Economist at the Central Bank of Ireland, having returned from the European Central Bank in 2026. My research focuses on banking, artificial intelligence, financial stability, systemic risk, and the international transmission of macroeconomic and financial shocks.
 
-Welcome to my website! I am currently working as a Financial Stability Expert at the European Central Bank on topics relating to financial stability and systemic risk. In early 2026 I return to the Central Bank of Ireland to work as a Senior Economist in the Irish Economic Analysis Division.
+**Research interests** Banking, artificial intelligence, financial stability, systemic risk, investment dynamics, and international macro-financial transmission
 
-**Research interests** Banking, artificial intelligence, financial stability, systemic risk, international transmission of macroeconomic and financial shocks
-
-[Research](research.qmd) · [CV](cv.qmd) · [Data](data.qmd) · [Contact](contact.qmd)
+[Research](research.qmd) | [CV](cv.qmd) | [Data](data.qmd) | [Contact](contact.qmd)
 
 :::
 
 :::
 
-## Ongoing Research
+## Publications
 
-- **AI Hardware Depreciation and Labour Markets**, with Giulia Maria Guerrini.  
-  <span class="pub-links"><a href="#">Draft available on request</a></span>
+::: {.featured-list}
+
+::: {.pub-item}
+**The Macroeconomics of AI Capacity: Insights from a Two-Asset Growth Model** (2026)  
+Jonathan Rice  
+*Macroeconomic Dynamics*, 30, e22  
+<span class="pub-links">
+[Cambridge Core](https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/abs/macroeconomics-of-ai-capacity-insights-from-a-twoasset-growth-model/BA6A3F533F88E96FD0E7E09B1B0CA049)
+[DOI](https://doi.org/10.1017/S1365100526100911)
+</span>
+
+A two-asset growth model of AI capacity, hardware obsolescence, investment dynamics, and welfare-relevant policy tradeoffs.
+:::
+
+::: {.pub-item}
+**Riding the Rate Wave: Interest Rate and Run Risks in Euro Area Banks During the 2022-2023 Monetary Cycle** (2026)  
+Jonathan Rice, Giulia Maria Guerrini  
+*Journal of International Money and Finance*, 160, 103444  
+<span class="pub-links">
+[Journal](https://www.sciencedirect.com/science/article/abs/pii/S0261560625001792)
+[ECB Working Paper](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3090~4852851923.en.pdf)
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5383748)
+</span>
+
+Evidence on how the 2022-2023 tightening cycle affected euro area banks' economic net worth and deposit-run risk.
+:::
+
+::: {.pub-item}
+**Economic Policy Uncertainty Shocks in Small Open Economies: A Case Study of Ireland** (2023)  
+Jonathan Rice  
+*The Economic and Social Review*, 54(4), 217-245  
+<span class="pub-links">
+[Journal](https://www.esr.ie/article/view/2531)
+[PDF](https://www.esr.ie/article/view/2531/771)
+</span>
+
+An empirical study of how policy uncertainty shocks transmit through a small open economy.
+:::
+
+:::
+
+[All research outputs](research.qmd)
+
+## Work in Progress
+
+- **AI Hardware Depreciation and Labour Markets**, with Frederik Andersen and Giulia Maria Guerrini.  
+  <span class="pub-links">Draft available on request</span>
 
 - **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  
-  <span class="pub-links"><a href="#">Draft available on request</a></span>
+  <span class="pub-links">Draft available on request</span>
 
 - **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  
-  <span class="pub-links"><a href="#">Draft available on request</a></span>
+  <span class="pub-links">Draft available on request</span>
 
 
 ## Data

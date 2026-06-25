@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Jonathan Rice"
-  description: "Financial Stability Expert at the European Central Bank. Research on banking, artificial intelligence, and the international transmission of macroeconomic and financial shocks."
+  description: "Senior Economist at the Central Bank of Ireland. Research on banking, artificial intelligence, financial stability, and the international transmission of macroeconomic and financial shocks."
   navbar:
     left:
       - href: index.qmd
@@ -26,7 +26,7 @@ website:
         text: Contact
 
   page-footer:
-    left: "© Jonathan Rice"
+    left: "Copyright Jonathan Rice"
     right:
       - text: "Built with Quarto"
         href: https://quarto.org

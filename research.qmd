@@ -66,6 +66,13 @@ Giulia Maria Guerrini, Jonathan Rice
 :::
 
 ::: {.pub-item}
+**Euro Area Investment Patterns and Exposure to AI-dependent Firms** (work in progress)  
+Jonathan Rice, Raffaele Giuliana, Giulia Maria Guerrini, Mikael Hagelstam  
+
+Draft available on request.
+:::
+
+::: {.pub-item}
 **Structural Scenario Analysis with Granular Stress Testing Models** (work in progress)  
 Jonathan Rice, Juan Rubio Ramirez  
 

@@ -1,9 +1,3 @@
 ---
 title: "CV"
 ---
-
-- [Download my CV (PDF)](files/cv.pdf)
-
-<object data="files/cv.pdf" type="application/pdf" width="100%" height="900px">
-  <p>Your browser cannot display embedded PDFs. You can <a href="files/cv.pdf">download the CV as a PDF</a>.</p>
-</object>

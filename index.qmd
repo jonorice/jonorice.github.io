@@ -69,8 +69,8 @@ This paper constructs and uses an Irish economic policy uncertainty index to stu
 
 ## Work in Progress
 
-- **Euro Area Investment Patterns and Exposure to AI-dependent Firms**, with Raffaele Giuliana, Giulia Maria Guerrini and Mikael Hagelstam.  
-  <span class="pub-links">Draft available on request</span>
+- **The Generative AI Turn in the Productivity J-Curve: Firm-Level Evidence from Earnings Calls**, with Giulia Maria Guerrini.  
+  <span class="pub-links">[Draft PDF](files/generative-ai-productivity-j-curve-draft.pdf)</span>
 
 - **Structural Scenario Analysis with Granular Stress Testing Models**, with Juan Rubio Ramirez.  
   <span class="pub-links">Draft available on request</span>

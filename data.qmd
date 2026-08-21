@@ -9,7 +9,7 @@ This page provides the data that underpin my work on Irish economic policy uncer
 
 The series are hosted externally by the Economic Policy Uncertainty project and are mirrored here for convenience.
 
-**Latest mirrored update:** 25 June 2026. The main EPU series is updated through June 2026 using data through 25 June; the domestic component is updated through November 2025, reflecting the latest available all-country input panel used for the domestic-series estimation.
+**Latest mirrored update:** 21 August 2026. The main EPU series is updated through August 2026 using data through 21 August; the domestic component is updated through July 2026, reflecting the latest available all-country input panel used for the domestic-series estimation.
 
 ### Download
 

@@ -57,6 +57,12 @@ This paper studies how policy uncertainty shocks transmit in a small open econom
 ## Working Papers
 
 ::: {.pub-item}
+**The Generative AI Turn in the Productivity J-Curve: Firm-Level Evidence from Earnings Calls** (work in progress)<br>
+Giulia Maria Guerrini, Jonathan Rice<br>
+<span class="pub-links">Draft available on request</span>
+:::
+
+::: {.pub-item}
 **Euro Area Investment Patterns and Exposure to AI-dependent Firms** (work in progress)  
 Jonathan Rice, Raffaele Giuliana, Giulia Maria Guerrini, Mikael Hagelstam  
 
